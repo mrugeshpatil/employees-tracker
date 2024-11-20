@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employees-tracker/static/css/main.34527e6c.css",
+    "main.js": "/employees-tracker/static/js/main.38c4f1de.js",
+    "static/js/453.798461bd.chunk.js": "/employees-tracker/static/js/453.798461bd.chunk.js",
+    "index.html": "/employees-tracker/index.html",
+    "main.34527e6c.css.map": "/employees-tracker/static/css/main.34527e6c.css.map",
+    "main.38c4f1de.js.map": "/employees-tracker/static/js/main.38c4f1de.js.map",
+    "453.798461bd.chunk.js.map": "/employees-tracker/static/js/453.798461bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34527e6c.css",
+    "static/js/main.38c4f1de.js"
+  ]
+}
